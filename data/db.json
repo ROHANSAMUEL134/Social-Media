@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My 1st Post",
+      "dateTime": "July 01, 2021 11:17:36 AM",
+      "body": "Played Online Games for relaxing and stress busting"
+    },
+    {
+      "id": "5",
+      "title": "My 5th Post",
+      "dateTime": "April 26, 2024 4:51:35 PM",
+      "body": "Hello World!!!\n"
+    },
+    {
+      "id": "6",
+      "title": "My xth Post",
+      "dateTime": "April 26, 2024 4:51:50 PM",
+      "body": "React render!"
+    }
+  ]
+}
